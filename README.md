@@ -5,9 +5,9 @@ My powerBi project related to Amazon prime video.
 
 This project utilizes Power BI to create an interactive dashboard analyzing Amazon Prime Video content. The dashboard provides insights into various aspects of the streaming platform's library, including:
 
-## Content Distribution by Country:Explore the breakdown of total shows available on Prime Video, categorized by their country of origin. This visualization helps identify trends in regional content offerings.
-## Show Ratings: Analyze the distribution of shows based on their ratings. This can reveal user preferences and identify potential areas for content acquisition or production.
-## Genre Analysis: Discover the genre breakdown of the total shows available. This visualization provides valuable information about the platform's content diversity and potential gaps in specific genres.
+# Content Distribution by Country:Explore the breakdown of total shows available on Prime Video, categorized by their country of origin. This visualization helps identify trends in regional content offerings.
+# Show Ratings: Analyze the distribution of shows based on their ratings. This can reveal user preferences and identify potential areas for content acquisition or production.
+# Genre Analysis: Discover the genre breakdown of the total shows available. This visualization provides valuable information about the platform's content diversity and potential gaps in specific genres.
 
 ## Key Features:
 
